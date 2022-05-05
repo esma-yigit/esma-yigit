@@ -10,6 +10,7 @@ I've been engaging coding for 2 years. I started my journey with Javascript to l
 * ✉️  You can contact me at [ey.devphoenix@gmail.com](mailto:ey.devphoenix@gmail.com)
 * 🧠  I'm learning Golang,Reactjs,Nodejs,Threejs
 * 🤝  I'm open to collaborating on Interesting projects,freelancing,remote projects,startup projects
+* ⚠️  I decided to improve my github profile and portfolio. I deleted all my previous projects that I practiced while learning new technologies. As I developed myself as and frontend dev, my portfolio grows with me in a professional way. Thank you reading my bio. 
 
 ### Skills
 
