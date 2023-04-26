@@ -4,14 +4,6 @@ Hi 👋 My name is Esma Y.
 Frontend Developer
 ------------------
 
-I've been engaging coding for 2 years. I started my journey with Javascript to learn Data structure and Algorithm. I continue my career as A Frontend Developer. Therefore, I can determine the structure and design of web pages, striking a balance between functional and aesthetic design, and ensuring web design is optimized for smartphones.My main goal is to combine technology and design to create inviting, easy-to-use websites for consumers.
-
-* 🌍  I'm based in istanbul
-* ✉️  You can contact me at [ey.devphoenix@gmail.com](mailto:ey.devphoenix@gmail.com)
-* 🧠  I'm learning Golang,Reactjs,Nodejs,Threejs
-* 🤝  I'm open to collaborating on Interesting projects,freelancing,remote projects,startup projects
-* ⚠️  I decided to improve my github profile and portfolio. I deleted all my previous projects that I practiced while learning new technologies. As I developed myself as and frontend dev, my portfolio grows with me in a professional way. Thank you reading my bio. 
-
 ### Skills
 
 <p align="left">
